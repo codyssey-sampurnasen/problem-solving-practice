@@ -18,6 +18,7 @@ This repository contains structured solutions to Data Structures & Algorithms pr
 - Stack
 - Heap
 - Graphs
+- Dynamic Programming
 - System Design Basics
 
 ## Featured Implementations
